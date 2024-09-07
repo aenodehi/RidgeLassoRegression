@@ -1,6 +1,3 @@
-Great! Here's the updated README with your name and email:
-
----
 
 # Algerian Forest Fires
 
