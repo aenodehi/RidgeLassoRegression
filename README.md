@@ -119,7 +119,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or feedback, please contact Ali at aenodehi@gmail.com.
-
----
-
-Feel free to further customize this README to better fit your project's specifics. Good luck with your Algerian Forest Fires project!
